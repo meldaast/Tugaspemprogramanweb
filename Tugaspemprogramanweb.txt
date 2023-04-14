@@ -1,4 +1,3 @@
 Tugas Pemprograman Web
 -Meresume materi CI3
 -Meresume materi mengenai Git dan Github
--mempelajari Git
